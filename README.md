@@ -1,6 +1,6 @@
 <div>
   <h2>🎓Training </h2>
-💻 CST Systems Analysis and Development - FAM <br>
+💻 Systems Analysis and Development - FAM <br>
 📚 Technical in Systems Development - ETESP <br>
   <h2>💡Technologies </h2>
 <div> 
